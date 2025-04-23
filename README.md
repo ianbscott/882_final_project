@@ -1,2 +1,2 @@
-# 882_final_project
+# Predicting benefits non-claimants with elastic net, random forests, and gradient boosted forests.
 Using machine learning models to predict tax-benefit non-recipients from income survey data. 
